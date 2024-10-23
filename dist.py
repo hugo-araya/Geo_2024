@@ -15,3 +15,4 @@ a = math.sin(dlat/2)*math.sin(dlat/2) + math.cos(lat1)*math.cos(lat2)*math.sin(d
 c = 2 * math.atan2(math.sqrt(a),math.sqrt(1-a))
 d = R*c
 print(d)
+math.
